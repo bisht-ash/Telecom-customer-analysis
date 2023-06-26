@@ -1,0 +1,10 @@
+kafka-python
+pyspark
+pymongo==3.11
+boto3
+pandas
+smart-open
+python-dotenv
+pytest
+unittest
+snowflake.connector
