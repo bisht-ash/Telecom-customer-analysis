@@ -1,4 +1,4 @@
-# Telecom-project
+# Telecom-Customer-Analysis
 
 ## SECTION 1.
 
