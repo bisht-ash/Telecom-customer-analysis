@@ -1,7 +1,5 @@
 # Telecom-Customer-Analysis
 
-## SECTION 1.
-
 ### Prerequisites
 - Ensure that you have MongoDB installed on your local device. If not, you can follow the official MongoDB documentation [here](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) for installation instructions.
 - Make sure your local MongoDB server is running before proceeding with the steps below.
